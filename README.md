@@ -11,7 +11,7 @@ This repository showcases my journey in applying machine learning to solve probl
 ---
 
 ## 🏠 Machine Learning for Price Prediction
-- 🏡 [House Price Prediction in Bandung, Indonesia]([[#](https://github.com/harishmuh/House-price-prediction-in-Bandung)](https://github.com/harishmuh/House-price-prediction-in-Bandung)): Built a regression model based on the web-scraped data of 3,000 house prices in Bandung.
+- 🏡 [House Price Prediction in Bandung, Indonesia](https://github.com/harishmuh/House-price-prediction-in-Bandung): Built a regression model based on the web-scraped data of 3,000 house prices in Bandung.
 
 ---
 

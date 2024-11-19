@@ -27,5 +27,9 @@ This repository showcases my journey in applying machine learning to solve probl
 
 ---
 
+## 🚀 Get in Touch!  
 
+Feel free to explore the projects and Apps above. I’m always looking to collaborate on machine learning projects, so don’t hesitate to [reach out](mailto:harishmuh@gmail.com) if you’d like to work together!  
+
+---
 

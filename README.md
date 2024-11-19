@@ -1,4 +1,4 @@
-# Machine Learning projects
+# 🤖 Machine Learning projects
 
 This repository showcases my journey in applying machine learning to solve problems in various domains, from business analytics to health sectors. Below are categorized projects demonstrating my expertise in building predictive models, performing segmentation, and deploying user-friendly applications.
 

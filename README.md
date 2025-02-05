@@ -15,9 +15,10 @@ This repository showcases my journey in applying machine learning to solve probl
 
 ---
 
-## 🏥 Machine Learning for Health Sectors
-- 🩺 [Early Risk Diabetes Prediction](https://github.com/harishmuh/Early-Risk-Diabetes-predictor-Machine-Learning-and-app): Developed a model to predict prediabetes using research data.
+## 🏥 Machine Learning for Health Sectors and Bioinformatics
+- 🩺 [Early Risk Diabetes Prediction](https://github.com/harishmuh/Early-Risk-Diabetes-predictor-Machine-Learning-and-app): Developed a model to predict prediabetes risks using research data.
 - ❤️ [Heart Disease Prediction](https://github.com/harishmuh/Heart-diseases-prediction-Machine-Learning--App): Created a classifier to assess heart disease risks based on medical records.
+- 🧬 [Acute Leukimia Prediction](https://github.com/harishmuh/Gene-Expression_Acute-Leukimia_MLClassification): Constructed a prediction model based on gene expression data (DNA microarray) to discriminate whether patient's acute leukimia case is considered as AML (Acute Myeloid Leukimia) or ALL (Acute Lymphoblastic Leukimia)
 
 ---
 

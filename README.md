@@ -12,6 +12,7 @@ This repository showcases my journey in applying machine learning to solve probl
 
 ## 🏠 Machine Learning for Price Prediction
 - 🏡 [House Price Prediction in Bandung, Indonesia](https://github.com/harishmuh/House-price-prediction-in-Bandung): Built a regression model based on the web-scraped data of 3,000 house prices in Bandung.
+- 🛒 [Default Credit Scoring Prediction Models](https://github.com/harishmuh/Credit_Score_Credit_Card_Payment_Taiwan): Developed a classification model to predict credit card default payment in Taiwan.
 
 ---
 
@@ -24,8 +25,8 @@ This repository showcases my journey in applying machine learning to solve probl
 
 ## 🌐 Machine Learning Apps
 - 📱 [Early Diabetes Predictor App](https://early-risk-diabetes-predictor.streamlit.app/): A Streamlit app providing users with instant diabetes risk feedback.
-- 📱 [Heart Disease Predictor App](https://heart-diseases-prediction-ml-hm.streamlit.app/): Assists healthcare staff in assessing heart disease risk from medical records.
-
+- ❤️ [Heart Disease Predictor App](https://heart-diseases-prediction-ml-hm.streamlit.app/): Assists healthcare staff in assessing heart disease risk from medical records.
+- 🏠 [House Price Prediction App](https://app-house-prices-8fe4kxbfh4mghwrjexudzs.streamlit.app/): Web-apps to predict house prices in the city of Bandung, Indonesia.
 ---
 
 ## 🚀 Get in Touch!  

@@ -2,7 +2,7 @@
 
 Welcome to my **Machine Learning Portfolio**! 🔥 
 
-I apply machine learning to solve problems across **customer analytics, healthcare, bioinformatics, finance, and pricing models**. This repository highlights projects where I've built **predictive models, segmentation, and user-friendly applications**.  
+I apply machine learning to solve problems across **customer analytics, healthcare, bioinformatics, finance, and pricing models**. This repository highlights projects where I've built **predictive models, market segmentation, and user-friendly applications**.  
 
 
 ## 📊 Machine Learning for Customer-Centric Industries

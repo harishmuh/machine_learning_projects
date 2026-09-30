@@ -2,7 +2,7 @@
 
 Welcome to my **Machine Learning Portfolio**! 🔥 
 
-I apply machine learning to solve problems across **customer analytics, healthcare, bioinformatics, finance and pricing models**. This repository highlights projects where I've built **predictive models, performing segmentation, and user-friendly applications**.  
+I apply machine learning to solve problems across **customer analytics, healthcare, bioinformatics, finance, and pricing models**. This repository highlights projects where I've built **predictive models, segmentation, and user-friendly applications**.  
 
 
 ## 📊 Machine Learning for Customer-Centric Industries
@@ -17,14 +17,14 @@ I apply machine learning to solve problems across **customer analytics, healthca
 
 ---
 
-## 🏥 Machine Learning for Health Sectors and Bioinformatics
+## 🏥 Machine Learning for Health Sectors 
 - 🩺 [Early Risk Diabetes Prediction](https://github.com/harishmuh/Early-Risk-Diabetes-predictor-Machine-Learning-and-app): Developed a model to predict prediabetes risks using research data.
 - ❤️ [Heart Disease Prediction](https://github.com/harishmuh/Heart-diseases-prediction-Machine-Learning--App): Created a classifier to assess heart disease risks based on medical records.
 - 🧬 [Acute Leukimia Prediction](https://github.com/harishmuh/Gene-Expression_Acute-Leukimia_MLClassification): Constructed a prediction model based on gene expression data (DNA microarray) to discriminate whether patient's acute leukimia case is considered as AML (Acute Myeloid Leukimia) or ALL (Acute Lymphoblastic Leukimia)
 
 ---
 
-## 🌐 Apps with Machine Learning based Models
+## 🌐 Apps with Machine Learning Models
 - 📱 [Early Diabetes Predictor App](https://early-risk-diabetes-predictor.streamlit.app/): A Streamlit app providing users with instant diabetes risk feedback.
 - ❤️ [Heart Disease Predictor App](https://heart-diseases-prediction-ml-hm.streamlit.app/): Assists healthcare staff in assessing heart disease risk from medical records.
 - 🏠 [House Price Prediction App](https://app-house-prices-8fe4kxbfh4mghwrjexudzs.streamlit.app/): Web-apps to predict house prices in the city of Bandung, Indonesia.
